@@ -20,7 +20,7 @@ const DownloadSection = () => {
 
 
 
-        <img src={section4Image} className='w-[100%] ' />
+        <img src={section4Image} className='w-[100%] ' alt={section4Image}/>
 
 
         <div class="font-['ggSans'] font-bold relative w-[100%] flex flex-col items-center gap-[40px]">

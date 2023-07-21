@@ -6,7 +6,6 @@ import section1Image from './images/section1Image.svg'
 import section2Image from './images/section2Image.svg'
 import section3Image from './images/section3Image.svg'
 
-import section5Image from './images/section5Image.svg'
 
 
 function App() {

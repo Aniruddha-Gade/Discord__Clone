@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { NavLinks } from '../constants'
 import discordLogo from '../images/logo.svg'
-import { GiHamburgerMenu } from 'react-icons/gi'
+
 
 
 import { IoMdClose } from 'react-icons/io';
