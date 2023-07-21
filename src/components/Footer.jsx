@@ -14,7 +14,7 @@ const Footer = () => {
           {/* left part */}
           <div className='flex flex-col gap-10 w-[100%] md:w-[20%] cursor-pointer'>
             <div className='flex items-center'>
-              <img src={USAFlag} className='w-6 h-4 mr-2' />
+              <img src={USAFlag} className='w-6 h-4 mr-2' alt={USAFlag} />
               <p>English, USA  </p>
               <MdOutlineKeyboardArrowDown className='ml-2' />
             </div>
