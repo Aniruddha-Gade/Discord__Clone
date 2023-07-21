@@ -40,7 +40,7 @@ const Navbar = () => {
 
 
         {/* for mobile */}
-        <div className='flex items-center justify-between'>
+        <div className='md:hidden flex items-center justify-between'>
           <button
             className="bg-white px-4 py-2 rounded-full leading-[24px] text-[14px] font-semibold text-[#404eed] mr-4">
             Login
@@ -55,10 +55,6 @@ const Navbar = () => {
                 : <IoMenu color="#fff" size={40} />
             }
           </div>
-
-
-
-
         </div>
       </nav>
     </div>
